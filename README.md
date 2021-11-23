@@ -32,3 +32,29 @@ Las leyes de Kirchhoff, junto con la Ley de Ohm, son las principales herramienta
 
 Para el análisis de mallas solo es necesaria la segunda ley de Kirchhoff, ya que esta se enfoca en circuitos cerrados.
 [![An-lisis-de-Mallas.png](https://i.postimg.cc/MZdy88s1/An-lisis-de-Mallas.png)](https://postimg.cc/14Vgpb1z)
+
+**4. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+**4.1.** Se realizará el siguiente circuito mixto en Tinkercad. Se utilizarán las siguientes herramientas:
+- Una Placa de pruebas pequeña.
+- Cinco Resistencias.
+- Dos Suminitrador de Energía.
+- Un multímetro.
+
+[![cg.png](https://i.postimg.cc/sfYh4GGj/cg.png)](https://postimg.cc/kD5Gn4yz)
+
+**4.2.** Conectaremos los dos suministradores de energía en la placa pequeña de tal forma que los dos negativos (tierra) se unan, esto debido a que seguiemos el mismo modelo dado en el diagrama.
+
+[![23.png](https://i.postimg.cc/vZNV8cm5/23.png)](https://postimg.cc/fVYLBWmb)
+
+**4.3.** Ahora posicionaremos los resistores y los conectaremos con un cable celeste, siguiendo el modelo. Al final conectaremos los resistores 3 y 4 al cable negro (negativo) para poder cerrar el circuito con los dos suministradores de energía.
+
+[![hy.png](https://i.postimg.cc/MGBbhyYn/hy.png)](https://postimg.cc/068wSKFv)
+
+[![1.png](https://i.postimg.cc/cC2p4RPV/1.png)](https://postimg.cc/SYLTgMSr)
+
+**5. RESULTADOS OBTENIDOS**
+
+**5.1**. Para poder medir las corrientes de cada malla, primero debemos reconocer todas las mallas que tenemos en nuestro circuito.
+
+[![890.png](https://i.postimg.cc/jjGKjrN8/890.png)](https://postimg.cc/94tsxKLT)
