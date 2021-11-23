@@ -17,10 +17,18 @@ Comprobar experimentalmente el Análisis de Mallas.
 - Comprobar la veracidad de las leyes de Kirchhoff
 
 **3. MARCO TEÓRICO**
+
 **3.1. Rama, Mallas y Nodos**
+
 [![Ramas-Mallas-y-Nodos.png](https://i.postimg.cc/d0x7Dqyy/Ramas-Mallas-y-Nodos.png)](https://postimg.cc/jWyqFYvx)
 
 **3.2. Ley de Kirchhoff en mallas**
+
 Las leyes de Kirchhoff, junto con la Ley de Ohm, son las principales herramientas con las cuales se cuenta para analizar el valor de los parámetros eléctricos de un circuito. Mediante el análisis de nodos (primera ley) es factible hallar los valores de las corrientes y las caídas de tensión que se presenten en cualquier punto del montaje.
 
 [![M-todo-de-An-lisis-de-Mallas.png](https://i.postimg.cc/hGjrHtnz/M-todo-de-An-lisis-de-Mallas.png)](https://postimg.cc/hXkTmgfc)
+
+**3.3. Análisis de Mallas**
+
+Para el análisis de mallas solo es necesaria la segunda ley de Kirchhoff, ya que esta se enfoca en circuitos cerrados.
+[![An-lisis-de-Mallas.png](https://i.postimg.cc/MZdy88s1/An-lisis-de-Mallas.png)](https://postimg.cc/14Vgpb1z)
