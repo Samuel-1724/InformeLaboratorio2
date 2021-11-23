@@ -59,17 +59,24 @@ Para el análisis de mallas solo es necesaria la segunda ley de Kirchhoff, ya qu
 
 [![890.png](https://i.postimg.cc/jjGKjrN8/890.png)](https://postimg.cc/94tsxKLT)
 
-5.2. Una vez establecidas las mallas tomaremos medidas de las corrientes en cada malla. Primero lo haremos a través de Tinkercad.
+**5.2.** Una vez establecidas las mallas tomaremos medidas de las corrientes en cada malla. Primero lo haremos a través de Tinkercad.
 
 [![gujk.png](https://i.postimg.cc/cHLnmw6g/gujk.png)](https://postimg.cc/jWB2qWHt)
 
-5.3. Ahora tomaremos las medidas de voltaje del circuito realizado en el simulador multisim.
+**5.3.** Ahora tomaremos las medidas de voltaje del circuito realizado en el simulador multisim.
 
 [![nkj.png](https://i.postimg.cc/GhfnhCvZ/nkj.png)](https://postimg.cc/Mv1FdgPD)
 
-5.4. Ahora realizaremos manualmente el análisis de mallas, para observar si los resultados varian o no.
+**5.4.** Ahora realizaremos manualmente el análisis de mallas, para observar si los resultados varian o no.
 
 [![yu.png](https://i.postimg.cc/RhNGyYCw/yu.png)](https://postimg.cc/1V1pNJqz)
 
 [![oj.png](https://i.postimg.cc/dQpzvRMJ/oj.png)](https://postimg.cc/mh3dyH2n)
- análisis de mallas, para de esta manera observar si los resultados varian o no.
+
+**5.5. ** Cómo ya poseemos todos los datos necesarios; rellenamos la tabla con las corrientes de las mallas. (Recordar que los resultados están en miliamperios).
+
+| MALLA  | Resultados Analíticos  | Resultados Experimentales  | Resultados Simulados  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1  | 11.4546  | 11.5  | 11.455  |
+|  2 | 2.8473  | 2.85  | 2.8474  |
+| 3  | 0.4881  | 488  | 488.12  |
