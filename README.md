@@ -80,3 +80,11 @@ Para el análisis de mallas solo es necesaria la segunda ley de Kirchhoff, ya qu
 | 1  | 11.4546  | 11.5  | 11.455  |
 |  2 | 2.8473  | 2.85  | 2.8474  |
 | 3  | 0.4881  | 0.488  | 0.48812  |
+
+**6. CONCLUSIONES**
+
+En este informe de laboratorio se definió qué es un análisis de malla y cómo se lo puede usar en un circuito cotidiano para calcular, en este caso, las corrientes de todas las mallas correspondientes al circuito. También entendimos el concepto de mallas, ramas y nodos y sus diferencias en un circuito. Por último analizamos el procedimeinto del método de mallas para resolver las corrientes de un circuito e identificamos la importancia de las leyes de Kirchhoff en este análisis y de las leyes de Ohm. 
+
+Logramos reproducir el circuito con exito en el programa Tinkercad al igual que simularlo en multisim, y de esta manera lograr analizar las corrientes de cada malla; esto nos lleva al hecho de que también se logró identificar con exito las mallas de este circuito establecido. También se indico el análisis de mallas de forma manual, con los pasos necesarios para llevarla a cabo. 
+
+Al final vimos que los resultados puestos en la tabla eran similares, solo habían pequeñas variaciones de décimas; sin embargo, en cada uno de los procesos el resultado fue el mismo, comprobando así la eficacía del análisis de mallas, y el previó conocimiento de Kirchhoff y Ohm para realizar las medídas. 
