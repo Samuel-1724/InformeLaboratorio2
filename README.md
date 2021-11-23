@@ -11,10 +11,13 @@ Comprobar experimentalmente el Análisis de Mallas.
 
 **2.2. Objetivos Específicos**
 
-- Explicar que son las leyes de Kirchhoff y cómo funcionan.
-- Realizar el circuito propuesto de manera correcta y explicandolo paso a paso.
-- Conseguir los datos necesarios para plasmarlos en las tablas y medirlos en el circuito con la herramienta indicada.
-- Comprobar la veracidad de las leyes de Kirchhoff
+- Definir lo que es malla, rama y nodo.
+- Entender cómo se utiliza el análisis de malla y cómo se lo aplica en un circuito.
+- Apender a identificar las mallas de un circuito.
+- Realizar el circuito propuesto de manera correcta y funcional.
+- Tomar las medidas de las corrientes en cada malla en Tinkercad, Multisim y de forma manual para aplicar el método de mallas.
+- Analizar los resultados obtenidos de cada programa y compararlos para definir si el análisi de mallas es funcional o no.
+
 
 **3. MARCO TEÓRICO**
 
@@ -88,3 +91,11 @@ En este informe de laboratorio se definió qué es un análisis de malla y cómo
 Logramos reproducir el circuito con exito en el programa Tinkercad al igual que simularlo en multisim, y de esta manera lograr analizar las corrientes de cada malla; esto nos lleva al hecho de que también se logró identificar con exito las mallas de este circuito establecido. También se indico el análisis de mallas de forma manual, con los pasos necesarios para llevarla a cabo. 
 
 Al final vimos que los resultados puestos en la tabla eran similares, solo habían pequeñas variaciones de décimas; sin embargo, en cada uno de los procesos el resultado fue el mismo, comprobando así la eficacía del análisis de mallas, y el previó conocimiento de Kirchhoff y Ohm para realizar las medídas. 
+
+**7. BIBLIOGRAFÍA**
+
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Gallo, H. (12 de Enero de 2019). Hetpro. Obtenido de https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+- Ministerio de Educaión . (2011). inet. Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+- Zapata, F. (1 de Noviembre de 2019). Lifeder. Obtenido de https://www.lifeder.com/analisis-de-mallas/
+
