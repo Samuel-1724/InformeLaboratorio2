@@ -73,10 +73,10 @@ Para el análisis de mallas solo es necesaria la segunda ley de Kirchhoff, ya qu
 
 [![oj.png](https://i.postimg.cc/dQpzvRMJ/oj.png)](https://postimg.cc/mh3dyH2n)
 
-**5.5. ** Cómo ya poseemos todos los datos necesarios; rellenamos la tabla con las corrientes de las mallas. (Recordar que los resultados están en miliamperios).
+**5.5.** Cómo ya poseemos todos los datos necesarios; rellenamos la tabla con las corrientes de las mallas. (Recordar que los resultados están en miliamperios).
 
 | MALLA  | Resultados Analíticos  | Resultados Experimentales  | Resultados Simulados  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1  | 11.4546  | 11.5  | 11.455  |
 |  2 | 2.8473  | 2.85  | 2.8474  |
-| 3  | 0.4881  | 488  | 488.12  |
+| 3  | 0.4881  | 0.488  | 0.48812  |
