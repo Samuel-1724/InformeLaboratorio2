@@ -27,7 +27,7 @@ Comprobar experimentalmente el Análisis de Mallas.
 
 **3.2. Ley de Kirchhoff en mallas**
 
-Las leyes de Kirchhoff, junto con la Ley de Ohm, son las principales herramientas con las cuales se cuenta para analizar el valor de los parámetros eléctricos de un circuito. Mediante el análisis de nodos (primera ley) es factible hallar los valores de las corrientes y las caídas de tensión que se presenten en cualquier punto del montaje.
+Las leyes de Kirchhoff, junto con la Ley de Ohm, son las principales herramientas con las cuales se cuenta para analizar el valor de los parámetros eléctricos de un circuito. Mediante el análisis de mallas (segundo ley) es factible hallar los valores de las corrientes y las caídas de tensión que se presenten en cualquier punto del montaje.
 
 [![M-todo-de-An-lisis-de-Mallas.png](https://i.postimg.cc/hGjrHtnz/M-todo-de-An-lisis-de-Mallas.png)](https://postimg.cc/hXkTmgfc)
 
